@@ -119,7 +119,7 @@ Displays the number of reviews in each sentiment category.
 
 ### Sentiment Distribution
 
-![distribution](#)
+![distribution](distribution.png)
 
 ---
 
