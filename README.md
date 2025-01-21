@@ -115,11 +115,11 @@ Displays the number of reviews in each sentiment category.
 
 ### Confusion Matrix
 
-![Confusion Matrix](#)
+![cm](#)
 
 ### Sentiment Distribution
 
-![Sentiment Distribution](#)
+![distribution](#)
 
 ---
 
